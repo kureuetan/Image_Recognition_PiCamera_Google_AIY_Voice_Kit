@@ -26,13 +26,13 @@ def main():
     logging.basicConfig(level=logging.DEBUG)
 
     # if you use the English version
-    vision_recog = VisionRecog()
+    #vision_recog = VisionRecog()
 
     # if you use the Spanish version
     #vision_recog = VisionRecog('es','es-ES')
 
     # if you use the Japanese version
-    #vision_recog = VisionRecog('ja','ja-JP')
+    vision_recog = VisionRecog('ja','ja-JP')
 
     work = True
 

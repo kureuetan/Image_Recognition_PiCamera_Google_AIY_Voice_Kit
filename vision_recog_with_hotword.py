@@ -51,6 +51,7 @@ def main():
 
     # if you use the Japanese version
     vision_recog = VisionRecog('ja','ja-JP')
+
     work = True
 
     with Board() as board:
