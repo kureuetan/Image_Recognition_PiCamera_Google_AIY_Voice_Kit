@@ -50,10 +50,10 @@ class VisionRecog():
         return hints
 
     def getImage(self):
-        """Takes a frech pictures and returns it as an Image object"""
         raspistillPID = subprocess.check_output(["pidof", "raspistill"])
         os.kill(int(raspistillPID), signal.SIGUSR1)
         sleep(0.5)
+        # If you want to change the image path, change it.
         file_name = "/home/pi/aiyimage.jpg"
         return file_name
 
