@@ -17,11 +17,11 @@ Concretely speaking, the process is as follows:
 
 ### Example videos
 
- - English version
+ - English version (Youtube link)
  
  [![This is a Demo video of image recognition program](http://img.youtube.com/vi/4hDf8eTBnf8/0.jpg)](http://www.youtube.com/watch?v=4hDf8eTBnf8 "This is a Demo video of image recognition program")
  
- - Japanese version
+ - Japanese version (Youtube link)
  
 [![This is a Demo video of image recognition program](http://img.youtube.com/vi/WwGZajUqfpk/0.jpg)](http://www.youtube.com/watch?v=WwGZajUqfpk "This is a Demo video of image recognition program")
 
