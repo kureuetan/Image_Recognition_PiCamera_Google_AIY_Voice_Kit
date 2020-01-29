@@ -18,10 +18,12 @@ Concretely speaking, the process is as follows:
 ### Example videos
 
  - English version
-<iframe width="560" height="315" src="https://youtube.com/embed/4hDf8eTBnf8?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe>
+ 
+ [![This is a Demo video of image recognition program](http://img.youtube.com/vi/4hDf8eTBnf8/0.jpg)](http://www.youtube.com/watch?v=4hDf8eTBnf8 "This is a Demo video of image recognition program")
  
  - Japanese version
-<iframe width="560" height="315" src="https://youtube.com/embed/WwGZajUqfpk?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe>
+ 
+[![This is a Demo video of image recognition program](http://img.youtube.com/vi/WwGZajUqfpk/0.jpg)](http://www.youtube.com/watch?v=WwGZajUqfpk "This is a Demo video of image recognition program")
 
 You can also find the detailed process explained on my web site.
 ->  [Website link (only in Japanese)](https://kureuetan.com/web/raspberrypi/7430/)
