@@ -72,7 +72,7 @@ The directory that saves the image can be changed anytime by editing the command
 	 - [Cloud Text-to-Speech API](https://cloud.google.com/text-to-speech/docs/quickstart-client-libraries?#client-libraries-install-python)
 	 - [Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/quickstart-client-libraries)
 	 - [Cloud Vision API](https://cloud.google.com/vision/docs/libraries)
-	 - [Cloud Translation API](https://cloud.google.com/translate/docs/basic/setup-basic)
+	 - [Cloud Translation API](https://cloud.google.com/translate)
 
 [Warning]
 Some Google APIs, especially "Cloud Speech to Text API", may charge you if your usage exceeds the free limit of each month. Make sure if you activate the 12-month, $300 free trial in the Google Cloud Platform.
